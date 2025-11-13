@@ -7,7 +7,6 @@ A high-performance, real-time arbitrage bot for Solana that identifies and execu
 
 ### 💬 Get in Touch
 
-
 ** Gmail ** : mateo.talentdev@gmail.com
 
 ** Telegram ** : [@mateosoul](https://t.me/mateosoul)
